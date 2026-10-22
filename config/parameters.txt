@@ -1,0 +1,6 @@
+src_loads_excel_google = 'https://docs.google.com/spreadsheets/d/15HL6OhvVvOz35XXvw7a9eQ9DLNO27ouy6cv0EpcLR68/edit?gid=222812534#gid=222812534'
+tmpl_loads_word_google = 'https://docs.google.com/document/d/1GceUG1cvLOvkVYQh4LVwqFkexcb6i09zbqgNo7Y9Nis/edit?tab=t.0'
+line_to_read = 3
+sheet_to_read = 'Loads'
+src_name_excel = 'ORDERS_THT 2026.xlsx'
+tmpl_name_word = '26-789 SC to GA.docx'
